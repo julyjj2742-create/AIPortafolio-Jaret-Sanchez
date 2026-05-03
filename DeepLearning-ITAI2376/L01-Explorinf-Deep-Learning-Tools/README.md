@@ -1,7 +1,7 @@
 # L01 - Exploring Deep Learning Tools: A No-Code Introduction to TensorFlow and Keras
 
 ## Overview
-In this lab, I worked with a pre‑built deep learning model (VGG16) to get familiar with the basic workflow of a deep learning project. I didn’t have to write any model architecture myself — instead, I focused on understanding how data is preprocessed, how the model is structured, and how predictions are generated.
+In this lab, I worked with a pre‑built deep learning model (VGG16) to get familiar with the basic workflow of a deep learning project. I didn’t have to write any model architecture myself, and instead I focused on understanding how data is preprocessed, how the model is structured, and how predictions are generated.
 
 ## Purpose
 The purpose of this lab was to help me understand the overall flow of a deep learning project without getting overwhelmed by code. The lab walked me through loading the VGG16 model, viewing its architecture, preprocessing images, and using the model to classify them. I also used widgets to upload my own images and see the model’s predictions in real time.
